@@ -1,2 +1,0 @@
-# BotTurtle
-Bot discord
